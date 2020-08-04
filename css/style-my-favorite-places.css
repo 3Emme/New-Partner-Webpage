@@ -1,20 +1,23 @@
 h1 {
-  color: red;
+  color: green;
   text-align: center; 
   font-weight: 200;
 }
 
 h2 {
+  color: aqua;
   font-style: bold;
   text-align: right;
 }
 
 p {
-  font-family: 'Courier New', Courier, monospace;
+  color: yellow;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
   font-size: medium;
 }
 
 ul {
+  color: green;
   font-size: 20px;
   line-height: 10px;
 }
